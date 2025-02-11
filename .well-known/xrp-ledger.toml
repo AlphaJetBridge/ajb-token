@@ -7,10 +7,10 @@ issuer = "r39yS2i4hGDA9mn1NNo98mETPb4W8aQ8Zv"
 currency = "AJB"
 name = "AlphaJetBridge"
 desc = "A cryptocurrency for gaming and microtransactions, powered by XRP Ledger."
-icon = "https:\"
+icon = "https://raw.githubusercontent.com/AlphaJetBridge/AJB/refs/heads/main/ajb.png"
 
 [[TOKENS.WEBLINKS]]
-url = "http://ajb.mywebcommunity.org/"
+url = "https://ajb-token.netlify.app/"
 type = "website"
 title = "Official Website"
 
