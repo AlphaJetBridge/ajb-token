@@ -1,0 +1,20 @@
+[[ISSUERS]]
+address = "r39yS2i4hGDA9mn1NNo98mETPb4W8aQ8Zv"
+name = "AlphaJetBridge"
+
+[[TOKENS]]
+issuer = "r39yS2i4hGDA9mn1NNo98mETPb4W8aQ8Zv"
+currency = "AJB"
+name = "AlphaJetBridge"
+desc = "A cryptocurrency for gaming and microtransactions, powered by XRP Ledger."
+icon = "https:\"
+
+[[TOKENS.WEBLINKS]]
+url = "http://ajb.mywebcommunity.org/"
+type = "website"
+title = "Official Website"
+
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/AlphaJetBridge"
+type = "socialmedia"
